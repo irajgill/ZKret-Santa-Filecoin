@@ -1,8 +1,3 @@
-//! ZKretSanta: A trustless Secret Santa protocol using zero-knowledge proofs and Filecoin storage
-//! 
-//! This library provides a complete implementation of a decentralized Secret Santa protocol
-//! that preserves participant privacy through zero-knowledge proofs while using Filecoin
-//! for persistent, decentralized storage.
 
 pub mod cli;
 pub mod crypto;
