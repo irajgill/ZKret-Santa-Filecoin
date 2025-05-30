@@ -31,4 +31,4 @@ Cargo.toml ->	Rust project manifest and dependencies
 
 About Filecoin
 
-Filecoin is a decentralized storage network powered by blockchain technology, where users pay miners to store, retrieve, and distribute data. It uses unique cryptographic proofs (Proof-of-Replication and Proof-of-Spacetime) to ensure data integrity and availability without relying on central authorities.
+Filecoin is a decentralized storage network powered by blockchain technology, where users pay miners to store, retrieve, and distribute data. It uses unique cryptographic proofs (Proof-of-Replication and Proof-of-Spacetime) to ensure data integrity and availability without relying on central authorities..
