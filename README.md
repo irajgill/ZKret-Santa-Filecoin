@@ -1,6 +1,6 @@
 Overview:
 
-ZKret-Santa-Filecoin is an experimental platform designed to demonstrate and test the integration of zero-knowledge cryptographic techniques with the decentralized storage capabilities of the Filecoin network. The project leverages Rust for performance and safety, and provides example scripts, source code, and tests for developers interested in building privacy-preserving storage solutions on Filecoin.
+ZKret-Santa-Filecoin is an experimental platform designed to demonstrate and test the integration of zero-knowledge cryptographic techniques with the decentralized storage capabilities of the Filecoin network. The project leverages Rust for performance and safety, and provides example scripts, source code, and tests for developers interested in building privacy-preserving storage solutions on Filecoin..
 
 Features:
 
